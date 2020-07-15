@@ -1,4 +1,4 @@
-This project is performed as a requirement of UDacity Introduction to Self Driving Car Nanodegree uses computer vision techniques to build a classifier for images of traffic lights using a dataset of traffic light images in which one of three lights is illuminated: red, yellow, or green.
+This project is performed as a requirement of Udacity Introduction to Self Driving Car Nanodegree which uses computer vision techniques to build a classifier for images of traffic lights using a dataset of traffic light images in which one of three lights is illuminated: red, yellow, or green.
 
 The following are the steps followed:
 
